@@ -44,6 +44,7 @@ Tech stack: Python, Pandas, PySpark, SQL, AWS EC2, S3, Lambda, Athena, Glue
 - Automated ETL workflows using AWS Glue and serverless services
 
 
+
 Code Assurance - SQL Modernization and Validation Framework
 Tech stack: Python, Django, NumPy, Pandas, SQL, BigQuery
 - Built a framework to parse, validate, and compare legacy and target SQL queries
@@ -51,6 +52,7 @@ Tech stack: Python, Django, NumPy, Pandas, SQL, BigQuery
 - Implemented automated reconciliation and performance testing
 - Detected issues early during migration through query and data validation
 - Led architecture design and execution for large-scale SQL modernization
+
 
 
 BlueBirdEye - Real-time Monitoring and Log Analytics System
@@ -62,6 +64,7 @@ Tech stack: Python, Django, PySpark, Pandas, AWS, MySQL, S3, Athena
 - Provided insights for proactive scaling and reliability
 
 
+
 WWE Racing Showdown - Game Backend and Analytics Platform
 Tech stack: Python, Django, Pandas, MySQL, AWS
 - Designed schemas for users, assets, subscriptions, tournaments, and progression tracking
@@ -69,6 +72,7 @@ Tech stack: Python, Django, Pandas, MySQL, AWS
 - Implemented tournament workflows, progression logic, and real-time leaderboards
 - Created analytical queries to support engagement and monetization analysis
 - Supported scalable backend services for high user activity
+
 
 
 TaraNG - Simulation-based Learning Platform
